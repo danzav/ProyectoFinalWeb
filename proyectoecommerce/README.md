@@ -1,10 +1,13 @@
-# ecommercevuefirestore
+# Proyecto Final Firestore/Vue
 
 ## Project setup
 ```
 npm install
 ```
-
+### firebase
+```
+npm install --save firebase
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -24,6 +27,4 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+link  funcionalidad: https://youtu.be/5UumieMsySs
