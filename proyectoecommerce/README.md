@@ -23,8 +23,8 @@ npm run build
 npm run test
 ```
 
-### Lints and fixes files
+### Lints and fixes files Lints and fixes files
 ```
 npm run lint
 ```
-link  funcionalidad: https://youtu.be/5UumieMsySs
+### Link de funcionalidad: https://youtu.be/5UumieMsySs
