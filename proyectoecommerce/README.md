@@ -1,29 +1,29 @@
 # Proyecto Final Firestore/Vue
 
-## Project setup
+## Setup del proyecto
 ```
 npm install
 ```
-### firebase
+### instalar firebase para la BD
 ```
 npm install --save firebase
 ```
-### Compiles and hot-reloads for development
+### Compilación y actualización automática para desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilación y compresión 
 ```
 npm run build
 ```
 
-### Run your tests
+### Correr tests
 ```
 npm run test
 ```
 
-### Lints and fixes files Lints and fixes files
+### Solucionar con Lint
 ```
 npm run lint
 ```
